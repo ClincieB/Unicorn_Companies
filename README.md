@@ -3,4 +3,4 @@ The purpose of this project is to talk about Unicorn Companies. I first had to l
 
 
 SETUP: 
-In order to run this project you will need the following modules installed on your computer, Pandas, Matplotlib, datetime. I would also download the csv file so you can have the information for the project so the code will run smoothly. The data from the csv file for this project can be found at kaggle.com. My code was also wrote in Visual code studio in jupyter notebook.  The csv file is from https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset. 
+In order to run this project you will need the following modules installed on your computer, Pandas, Matplotlib, datetime. I would also download the csv file so you can have the information for the project so the code will run smoothly. The data from the csv file for this project can be found at kaggle.com, https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset  My code was also wrote in Visual code studio in jupyter notebook.  
